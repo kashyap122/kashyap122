@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kashyap Chauhan</h1>
 
-![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor)
+![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+Stack+Developer;Freelancer;Open+Source+Contributor)
 
-- 🌱 I’m currently learning **Full Stack Development (MERN)**
+- 🌱 I’m currently learning **Full Stack Development**
 - 👨‍💻 My projects are available at [kashyapchauhan.dev](#) <!-- Add your portfolio link -->
 - 🎯 Currently interning as a **Full Stack Developer**
 - 📫 How to reach me: [kashyapchauhan122@gmail.com](mailto:kashyapchauhan122@gmail.com)
@@ -37,5 +37,5 @@
 ---
 
 Let's connect! 🚀  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyapchauhan/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashyapchauhan/) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashyap122)
