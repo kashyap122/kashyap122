@@ -3,7 +3,7 @@
 ![Typing words](https://readme-typing-svg.herokuapp.com?font=Roboto&color=0B0BFF&size=25&lines=Full+Stack+Developer;Freelancer;Open+Source+Contributor)
 
 - 🌱 I’m currently learning **Full Stack Development**
-- 👨‍💻 My projects are available at [kashyapchauhan.dev](#) <!-- Add your portfolio link -->
+- 👨‍💻 My projects are available at [kashyapchauhan.dev](#) 
 - 🎯 Currently interning as a **Full Stack Developer**
 - 📫 How to reach me: [kashyapchauhan122@gmail.com](mailto:kashyapchauhan122@gmail.com)
 - 🏆 Seeking opportunities to contribute to open-source & innovative projects
@@ -32,8 +32,6 @@
 
 ## 📊 GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kashyap122&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true)
-![Kashyap's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashyap122&show_icons=true&theme=radical&hide_border=true)
-
 ---
 
 Let's connect! 🚀  
